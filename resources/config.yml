@@ -1,0 +1,12 @@
+#by theohdg2
+
+#définir le rayon sur laquelle le farmChest va agir (defaut 4)
+rayon: 4
+
+#définir le texte quand vous allez rentrer dans le farmChest
+
+message: "§4vous avez bien récupérer les graines"
+
+#definir si oui ou non sa replante automatiquement (true/false)
+
+auto-replant: true
